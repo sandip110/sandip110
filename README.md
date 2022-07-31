@@ -1,6 +1,6 @@
 - 👋 Hi, I am Sandip
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Leaning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science , Data Analytics
 - 📫 How to reach me mahapatrasandip83@gmail.com
 
